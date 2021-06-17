@@ -426,6 +426,10 @@ body span p {
 .use-text {
 	padding: 50px 30px 50px 30px;
 }
+.use-text hr{
+    background: linear-gradient(45deg,#fff,#111,#fff);
+    
+}
 
 .use-button.btn-primary {
 	background-color: #0458f9;
